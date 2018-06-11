@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Chromium
+Icon=CHROMIUM_ICON
+Exec=CHROMIUM_EXEC
+StartupNotify=false
+StartupWMClass=Chrome
+OnlyShowIn=Unity;
+X-UnityGenerated=true
